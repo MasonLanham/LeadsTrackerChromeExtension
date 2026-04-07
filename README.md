@@ -7,4 +7,4 @@ To Deploy this to your Chrome-based browser:
 3) Turn Developer Mode On
 4) Select "Load Unpacked"
 5) Select the folder containing the files for this extension.
-6) Your done that should install the extension!
+6) You're done that should install the extension!
